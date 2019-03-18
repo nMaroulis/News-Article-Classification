@@ -1,16 +1,25 @@
 # News-Article-Classification
 
 Classification of News Articles using various models and transformations
-\n
-Transformations: \n
-Bag of Words\n
-SVD with BoW\n
-Word2Vec\n
 
-Models:\n
-SVM with linear kernel\n
-Random Forests\n
-Naive Bayes\n
-KNN\n
-MLP\n
+Transformations:
+
+Bag of Words
+
+SVD with BoW
+
+Word2Vec
+
+Models:
+
+SVM with linear kernel
+
+Random Forests
+
+Naive Bayes
+
+KNN
+
+MLP
+
 and more
