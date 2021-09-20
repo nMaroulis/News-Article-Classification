@@ -1,6 +1,6 @@
 # News-Article-Classification
 
-Classification of News Articles using various models and transformations
+Classification of News Articles using various ML models and transformations for performance Compatison
 
 Transformations:
 
@@ -10,7 +10,7 @@ SVD with BoW
 
 Word2Vec
 
-Models:
+ML Models:
 
 SVM with linear kernel
 
